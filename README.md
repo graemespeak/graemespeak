@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @graemespeak, a technology entrepreneur now involved in Passwordless Authentication for website logins. 
-- 👀 I’m interested in technologies which clientless and secure end users, AI/ML, Cybersecurity. 
+- 👀 I’m interested in Cybersecurity, AI/ML. 
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with people running web portals that want to go passwordless. The technology my team developed can be deployed in hours and is invisible to  users (not client software or user setup).  
 - 📫 How to reach me via https://www.linkedin.com/in/graemespeak/  or https://twitter.com/graeme_speak
 
 <!---
